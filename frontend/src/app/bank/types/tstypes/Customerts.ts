@@ -30,3 +30,7 @@ export class CustomerTS {
   // Example Usage
   const customer = new CustomerTS( "John Doe", "john@example.com", "john_doe", "password123", "User","1");
   customer.displayInfo();
+  
+  
+  
+  
